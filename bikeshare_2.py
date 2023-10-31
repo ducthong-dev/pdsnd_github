@@ -201,9 +201,13 @@ def main():
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
+        # Processing time statistical
         time_stats(df)
+        # Station statistical
         station_stats(df)
+        # Trip duration statistical
         trip_duration_stats(df)
+        # User statistical
         user_stats(df, city)
 
         # Ask user want to see more detail about data or not
