@@ -238,7 +238,7 @@ def main():
             restart = input("Please Enter Yes or No:\n")
             restart = restart.lower()
         if restart.lower() != "yes":
-            print("Good Bye!")
+            print("Good Bye. See ya!!!")
             break
 
 
