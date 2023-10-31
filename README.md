@@ -7,7 +7,7 @@ Oct-31-2023
 Oct-31-2023
 
 ### Project Title
-US Bike Share Analysis
+US Bike Share Analysis CLI Tools
 
 ### Description
 Analyze the US bike share data with month and day
